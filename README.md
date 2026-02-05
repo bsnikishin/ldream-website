@@ -96,7 +96,7 @@ python3 -m http.server 8000
 
 - [ ] `favicon.png` — иконка сайта (можно использовать иконку приложения)
 - [ ] `og-image.png` — картинка для шеринга в соцсетях (рекомендуется 1200x630px)
-- [ ] Обновить email адреса (`support@ldream.app`, `privacy@ldream.app`, `legal@ldream.app`)
+- [x] Email адрес: B.s.NikishinG@gmail.com
 - [ ] Обновить URL домена в мета-тегах (сейчас `https://ldream.app`)
 
 ## URL-адреса
