@@ -5,6 +5,10 @@
 /download https://h7.cl/1oeJZ 302
 
 # Pretty URLs - serve .html without extension
-/support /support.html 200
-/privacy /privacy.html 200
+/help /help.html 200
+/policy /policy.html 200
 /terms /terms.html 200
+
+# Legacy redirects
+/support /help.html 301
+/privacy /policy.html 301
