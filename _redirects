@@ -1,0 +1,10 @@
+# Redirect /app to short link for App Store
+/app https://h7.cl/1oeJZ 302
+
+# Redirect /download to short link for App Store  
+/download https://h7.cl/1oeJZ 302
+
+# Pretty URLs - serve .html without extension
+/support /support.html 200
+/privacy /privacy.html 200
+/terms /terms.html 200
